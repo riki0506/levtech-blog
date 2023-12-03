@@ -16,7 +16,7 @@
             </div>
             <div class="body">
                 <h2>Body</h2>
-                <textarea name="post[body" placeholder="This is body"></textarea>
+                <textarea name="post[body]" placeholder="This is body"></textarea>
             </div>
             <input type="submit" value="store">
         </form>
