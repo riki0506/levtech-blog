@@ -35,5 +35,8 @@
                 }
             }
         </script>
+        <div class='footer'>
+            <a href="/"> back </a>
+        </div>
     </body>
 </html>
